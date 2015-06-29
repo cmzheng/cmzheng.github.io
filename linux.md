@@ -1,0 +1,22 @@
+- echo
+- ls:list directory
+    - ls -l
+    - ls -a
+    - ls -F
+- pwd: present working directory
+- cd: change directory
+    - cd -
+    - cd ..
+    - cd /home/czheo
+    - cd /
+- mkdir
+- touch
+- cat
+- cp
+    - cp -r: recursively
+- rm
+    - rm -r
+- mv
+- vim
+- alias
+
