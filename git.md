@@ -4,4 +4,5 @@
 - add
 - commit
 - push
+- log
 
