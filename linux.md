@@ -19,4 +19,16 @@
 - mv
 - vim
 - alias
+- less
 
+- chmod u+x run.sh
+- chown zheng run.sh
+- uname 
+    - uname -a
+- hostname
+- whoami
+- top (process)
+- ps -aux  (process)
+- ifconfig
+- ping 127.0.0.1
+-
