@@ -32,3 +32,9 @@
 - ps -aux  (process)
 - ifconfig
 - ping 127.0.0.1
+- su (change user)
+- sudo
+- useradd (username)
+- userdel (username)
+- passwd (username)
+- cat /etc/passwd   (user info)
