@@ -32,4 +32,3 @@
 - ps -aux  (process)
 - ifconfig
 - ping 127.0.0.1
--
