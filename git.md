@@ -3,6 +3,7 @@
 - diff
 - add
 - commit
+- pull
 - push
 - log
 
